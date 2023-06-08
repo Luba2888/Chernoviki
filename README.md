@@ -5,4 +5,4 @@
 - [Задание 29.2](https://github.com/kuzminprog/skillbox_golang/tree/main/29/02_graceful_shutdown)
 - [Задание 30](https://github.com/kuzminprog/skillbox_golang/tree/main/30)
 
-![rooster](readme/rooster.gif)
+
